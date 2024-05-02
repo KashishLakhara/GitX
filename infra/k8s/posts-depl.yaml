@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: posts
-          image: kashiish19/posts
+          image: us.gcr.io/gitx-418708/posts
 ---
 apiVersion: v1
 kind: Service
