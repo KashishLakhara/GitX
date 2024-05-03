@@ -6,4 +6,4 @@ metadata:
   labels: {}
 description: dev
 gke:
-  cluster: projects/gitx-418708/locations/us-central1-c/clusters/cluster-1
+  cluster: projects/gitx-418708/locations/us-central1-f/clusters/gitx-dev
